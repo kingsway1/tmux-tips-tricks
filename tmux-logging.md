@@ -8,7 +8,7 @@ When a new pane is opened, the user is prompted to enable logging (default N). I
 
 First things first, ensure that you have set up tmux-logging. Installation and set up can be found here: 
 
-[I'm an inline-style link] (https://github.com/tmux-plugins/tmux-logging)
+[https://github.com/tmux-plugins/tmux-logging]
 
 # Enabling a logging promt in TMUX.
 
