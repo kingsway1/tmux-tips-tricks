@@ -43,4 +43,9 @@ Give tmux session a meaningful name when you create a session prior to logging.
 
 ``` tmux new -s <example>```
 
+The above example would produce the log file:
+
+```tmux-example-0-0-04-02-2019.log```
+
+
 
