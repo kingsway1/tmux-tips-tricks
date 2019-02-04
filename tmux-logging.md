@@ -1,4 +1,4 @@
-# TMUX prompt to enable tmux-logging
+# TMUX - Prompt to enable tmux-logging
 
 Set up streamlined TMUX logging.
 
