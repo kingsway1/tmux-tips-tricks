@@ -38,3 +38,9 @@ case "$response" in
 esac
 fi
 ```
+
+Give tmux session a meaningful name when you create a session prior to logging.
+
+``` tmux new -s <example>```
+
+
