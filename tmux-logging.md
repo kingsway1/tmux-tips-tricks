@@ -10,7 +10,7 @@ First things first, ensure that you have set up tmux-logging. Installation and s
 
 [https://github.com/tmux-plugins/tmux-logging]
 
-# Enabling a logging prompt in TMUX.
+# Enabling a logging prompt in TMUX
 
 
 ## Set up the location & format of the logs 
