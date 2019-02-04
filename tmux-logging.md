@@ -26,7 +26,8 @@ Edit the '.tmux/plugins/tmux-logging/scripts/variables.sh'
 
 ## Edit .profile to enable a [Y/n] prompt for TMUX logging
 
-```if [ "$TMUX" ] ; then
+```
+if [ "$TMUX" ] ; then
 read -r -p "Enable terminal logging? [y/N] " response
 case "$response" in
     [yY][eE][sS]|[yY])
@@ -35,4 +36,5 @@ case "$response" in
    *)
     ;;
 esac
-fi```
+fi
+```
